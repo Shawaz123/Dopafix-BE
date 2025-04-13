@@ -1,0 +1,28 @@
+{
+  "name": "dopafix-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-shawaz123:Shawaz123/Dopafix-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "axios": "^1.8.4",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.2.0",
+    "mysql2": "^3.14.0",
+    "node-fetch": "^2.7.0",
+    "nsfwjs": "^4.2.1"
+  }
+}
